@@ -6,7 +6,7 @@ This project explores the performance of **Convolutional Neural Networks (CNNs)*
 
 ## 📁 Project Structure
 
-### 🔹 Part IV: CNN on CIFAR-10
+### 🔹 CNN on CIFAR-10
 - **Input**: 32x32x3 color images across 10 classes
 - **Architecture**:
   - Conv1: 32 filters, 5x5, ReLU + MaxPool (2x2)
@@ -32,7 +32,7 @@ This project explores the performance of **Convolutional Neural Networks (CNNs)*
 
 ---
 
-### 🔹 Part V: Comparison – CIFAR-10 vs MNIST
+### 🔹Comparison – CIFAR-10 vs MNIST
 
 | Dataset   | Steps | Max Accuracy | Notes |
 |-----------|-------|--------------|-------|
@@ -46,7 +46,7 @@ This project explores the performance of **Convolutional Neural Networks (CNNs)*
 
 ---
 
-### 🔹 Part VI: Improving CNN Performance (CIFAR-10)
+### 🔹Improving CNN Performance (CIFAR-10)
 
 📐 **Updated Architecture**:
 - Added **Conv3**: 128 filters → MaxPool(2x2)
